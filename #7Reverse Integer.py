@@ -22,3 +22,7 @@ class Solution(object):
             if(s<-2147483648):
                 return 0
             return s
+if __name__ == '__main__':
+    s=Solution()
+    num= 123
+    print(s.reverse(num))

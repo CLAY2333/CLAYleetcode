@@ -14,4 +14,8 @@ class Solution:
             else:
                 return False
         else:
-           return False
+             return False
+if __name__ == '__main__':
+    s=Solution()
+    num= 123
+    print(s.isPalindrome(num))
