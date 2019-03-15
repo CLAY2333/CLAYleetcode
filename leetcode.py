@@ -8,17 +8,17 @@ import subprocess
 from requests.utils import requote_uri
 from collections import Counter
 from datetime import datetime
+import time
 
 CODE_TEMPLATE = \
 """// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
-// Zhihu: https://www.zhihu.com/people/netcan
 {code}
 """
 
 REPO_README_TEMPLATE = """
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
-本项目由`crawler.py`生成，代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
+本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
 目前已解决的题目（{solv_question_num} 个，其中简单{easy_num} 个，中等{medium_num} 个， 困难{hard_num} 个）：
 {solv_question_list}
 """
@@ -82,7 +82,7 @@ class Leetcode:
         except AttributeError:
             pass
 
-    def output_source(self, lang='rust', lang_suffix='rs', max_threads=8):
+    def output_source(self, lang='python', lang_suffix='py', max_threads=8):
         solved_list = self.get_solved_list()
         threads = []
         question_list = []
@@ -93,7 +93,7 @@ class Leetcode:
             def process_submit_list(question_):
                 submit_list = self.get_submit_list(question_["question_slug"])
                 for submit in submit_list:
-                    if submit["lang"] == lang:
+                    if submit["lang"] == lang or submit["lang"]=='python3':
                         src = self.get_source(submit['url'])
                         if not src: continue
 
@@ -126,7 +126,7 @@ class Leetcode:
             thread = threading.Thread(target=process_submit_list, args=(question,), daemon=True)
             thread.start()
             threads.append(thread)
-
+        time.sleep(2)
         self.__generate_readme(question_list)
 
 
@@ -159,4 +159,4 @@ if __name__ == '__main__':
 
     subprocess.run(["git", "add", "."])
     subprocess.run(["git", "commit", "-m", "commit by crawler.py @CLAY at {}".format(datetime.now().strftime("%Y-%m-%d %H:%M"))])
-    subprocess.run(["git", "push", "-f", "origin", "master"])
+    subprocess.run(["git", "push", "--force", "origin", "master"])
