@@ -1,4 +1,4 @@
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 10.8 MB
 - 通过日期/Accept Datetime: 2019-03-17 16:01
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     def DLR(self,tree1,tree2,bool):
         if(tree1==tree2==None):

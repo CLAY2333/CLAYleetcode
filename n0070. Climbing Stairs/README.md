@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 10.8 MB
 - 通过日期/Accept Datetime: 2019-03-14 15:23
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     D = {'test': -999}
     def climbStairs(self, n):

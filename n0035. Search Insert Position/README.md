@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 11.3 MB
 - 通过日期/Accept Datetime: 2019-03-05 11:56
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     def searchInsert(self, nums, target):
         count=nums.count(target)

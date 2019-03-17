@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 11 MB
 - 通过日期/Accept Datetime: 2019-03-17 17:41
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

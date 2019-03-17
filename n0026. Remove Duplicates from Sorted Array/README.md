@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 12.7 MB
 - 通过日期/Accept Datetime: 2019-03-05 11:01
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     def removeDuplicates(self, nums):
         """

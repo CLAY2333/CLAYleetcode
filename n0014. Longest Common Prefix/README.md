@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 11 MB
 - 通过日期/Accept Datetime: 2019-03-04 21:04
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     def longestCommonPrefixtwo(self,strs):
         if(strs[0]=="" or strs[1]==""):

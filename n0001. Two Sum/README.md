@@ -5,7 +5,7 @@
 - 内存消耗/Mem Usage: 11.8 MB
 - 通过日期/Accept Datetime: 2019-02-21 16:20
 ```python
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution:
     def twoSum(self, num, target):
         dict = {}

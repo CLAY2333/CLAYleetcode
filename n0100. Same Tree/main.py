@@ -1,4 +1,4 @@
-// Author: Netcan @ https://github.com/netcan/Leetcode-Rust
+// Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 class Solution(object):
     def DLR(self,tree1,tree2,bool):
         if(tree1==tree2==None):
