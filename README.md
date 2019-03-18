@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（25 个，其中简单24 个，中等1 个， 困难0 个）：
+目前已解决的题目（26 个，其中简单25 个，中等1 个， 困难0 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
@@ -28,3 +28,4 @@
 - [104. Maximum Depth of Binary Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [107. Binary Tree Level Order Traversal II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
 - [326. Power of Three :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0326.%20Power%20of%20Three)
+- [728. Self Dividing Numbers :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0728.%20Self%20Dividing%20Numbers)
