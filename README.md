@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（21 个，其中简单21 个，中等0 个， 困难0 个）：
+目前已解决的题目（22 个，其中简单22 个，中等0 个， 困难0 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
 - [9. Palindrome Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0009.%20Palindrome%20Number)
@@ -24,3 +24,4 @@
 - [88. Merge Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0088.%20Merge%20Sorted%20Array)
 - [100. Same Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0100.%20Same%20Tree)
 - [101. Symmetric Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0101.%20Symmetric%20Tree)
+- [104. Maximum Depth of Binary Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0104.%20Maximum%20Depth%20of%20Binary%20Tree)
