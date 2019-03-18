@@ -2,8 +2,9 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（22 个，其中简单22 个，中等0 个， 困难0 个）：
+目前已解决的题目（23 个，其中简单22 个，中等1 个， 困难0 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
+- [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
 - [9. Palindrome Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0009.%20Palindrome%20Number)
 - [13. Roman to Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0013.%20Roman%20to%20Integer)
