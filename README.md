@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（29 个，其中简单28 个，中等1 个， 困难0 个）：
+目前已解决的题目（30 个，其中简单29 个，中等1 个， 困难0 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
@@ -32,3 +32,4 @@
 - [443. String Compression :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0443.%20String%20Compression)
 - [496. Next Greater Element I :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0496.%20Next%20Greater%20Element%20I)
 - [728. Self Dividing Numbers :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0728.%20Self%20Dividing%20Numbers)
+- [958. Sort Array By Parity II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0958.%20Sort%20Array%20By%20Parity%20II)
