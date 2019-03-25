@@ -2,15 +2,16 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（38 个，其中简单34 个，中等3 个， 困难1 个）：
+目前已解决的题目（39 个，其中简单33 个，中等5 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - [4. Median of Two Sorted Arrays :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0004.%20Median%20of%20Two%20Sorted%20Arrays)
+- [5. Longest Palindromic Substring :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0005.%20Longest%20Palindromic%20Substring)
+- [6. ZigZag Conversion :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0006.%20ZigZag%20Conversion)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
 - [9. Palindrome Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0009.%20Palindrome%20Number)
 - [13. Roman to Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0013.%20Roman%20to%20Integer)
-- [14. Longest Common Prefix :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0014.%20Longest%20Common%20Prefix)
 - [20. Valid Parentheses :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0020.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0021.%20Merge%20Two%20Sorted%20Lists)
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
