@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（45 个，其中简单35 个，中等9 个， 困难1 个）：
+目前已解决的题目（47 个，其中简单36 个，中等10 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -17,6 +17,7 @@
 - [13. Roman to Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0013.%20Roman%20to%20Integer)
 - [14. Longest Common Prefix :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0014.%20Longest%20Common%20Prefix)
 - [15. 3Sum :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0015.%203Sum)
+- [16. 3Sum Closest :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0016.%203Sum%20Closest)
 - [20. Valid Parentheses :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0020.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0021.%20Merge%20Two%20Sorted%20Lists)
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
@@ -36,6 +37,7 @@
 - [104. Maximum Depth of Binary Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [107. Binary Tree Level Order Traversal II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
 - [121. Best Time to Buy and Sell Stock :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+- [125. Valid Palindrome :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0125.%20Valid%20Palindrome)
 - [232. Implement Queue using Stacks :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0232.%20Implement%20Queue%20using%20Stacks)
 - [290. Word Pattern :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0290.%20Word%20Pattern)
 - [326. Power of Three :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0326.%20Power%20of%20Three)
