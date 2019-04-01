@@ -2,13 +2,10 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（48 个，其中简单36 个，中等11 个， 困难1 个）：
+目前已解决的题目（48 个，其中简单38 个，中等10 个， 困难0 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
-- [4. Median of Two Sorted Arrays :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0004.%20Median%20of%20Two%20Sorted%20Arrays)
-- [5. Longest Palindromic Substring :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0005.%20Longest%20Palindromic%20Substring)
-- [6. ZigZag Conversion :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0006.%20ZigZag%20Conversion)
 - [7. Reverse Integer :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0007.%20Reverse%20Integer)
 - [8. String to Integer (atoi) :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0008.%20String%20to%20Integer%20(atoi))
 - [9. Palindrome Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0009.%20Palindrome%20Number)
@@ -19,6 +16,7 @@
 - [15. 3Sum :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0015.%203Sum)
 - [16. 3Sum Closest :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0016.%203Sum%20Closest)
 - [17. Letter Combinations of a Phone Number :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)
+- [19. Remove Nth Node From End of List :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0019.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 - [20. Valid Parentheses :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0020.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0021.%20Merge%20Two%20Sorted%20Lists)
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
@@ -26,6 +24,7 @@
 - [28. Implement strStr() :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0028.%20Implement%20strStr())
 - [35. Search Insert Position :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0035.%20Search%20Insert%20Position)
 - [38. Count and Say :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0038.%20Count%20and%20Say)
+- [53. Maximum Subarray :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0053.%20Maximum%20Subarray)
 - [58. Length of Last Word :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0058.%20Length%20of%20Last%20Word)
 - [66. Plus One :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0066.%20Plus%20One)
 - [67. Add Binary :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0067.%20Add%20Binary)
@@ -51,3 +50,4 @@
 - [829. Subdomain Visit Count :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0829.%20Subdomain%20Visit%20Count)
 - [899. Binary Gap :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0899.%20Binary%20Gap)
 - [958. Sort Array By Parity II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0958.%20Sort%20Array%20By%20Parity%20II)
+- [1062. Partition Array Into Three Parts With Equal Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n1062.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)
