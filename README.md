@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（54 个，其中简单38 个，中等15 个， 困难1 个）：
+目前已解决的题目（55 个，其中简单38 个，中等16 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -27,6 +27,7 @@
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
 - [27. Remove Element :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0027.%20Remove%20Element)
 - [28. Implement strStr() :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0028.%20Implement%20strStr())
+- [29. Divide Two Integers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0029.%20Divide%20Two%20Integers)
 - [35. Search Insert Position :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0035.%20Search%20Insert%20Position)
 - [38. Count and Say :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0038.%20Count%20and%20Say)
 - [53. Maximum Subarray :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0053.%20Maximum%20Subarray)
