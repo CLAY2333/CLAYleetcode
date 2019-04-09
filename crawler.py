@@ -122,17 +122,17 @@ class Leetcode:
                 for thread in threads:
                     if not thread.is_alive():
                         threads.remove(thread)
-
             thread = threading.Thread(target=process_submit_list, args=(question,), daemon=True)
             thread.start()
             threads.append(thread)
-        time.sleep(2)
+        time.sleep(4)
         self.__generate_readme(question_list)
 
 
 
     def __generate_readme(self, question_list):
         question_num = len(question_list)
+        print(question_num)
         question_level = Counter(q.count(':star:') for q in question_list)
         question_list.sort(key=lambda q: int(re.search(r"(\d+)\..*", q).group(1)))
         question_list = '\n'.join(
