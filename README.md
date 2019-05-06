@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（78 个，其中简单39 个，中等38 个， 困难1 个）：
+目前已解决的题目（81 个，其中简单40 个，中等40 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -54,6 +54,7 @@
 - [67. Add Binary :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0067.%20Add%20Binary)
 - [69. Sqrt(x) :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0069.%20Sqrt(x))
 - [70. Climbing Stairs :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0070.%20Climbing%20Stairs)
+- [73. Set Matrix Zeroes :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0073.%20Set%20Matrix%20Zeroes)
 - [75. Sort Colors :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0075.%20Sort%20Colors)
 - [78. Subsets :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0078.%20Subsets)
 - [83. Remove Duplicates from Sorted List :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0083.%20Remove%20Duplicates%20from%20Sorted%20List)
@@ -81,3 +82,5 @@
 - [987. Reveal Cards In Increasing Order :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0987.%20Reveal%20Cards%20In%20Increasing%20Order)
 - [1062. Partition Array Into Three Parts With Equal Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n1062.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)
 - [1070. Convert to Base -2 :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n1070.%20Convert%20to%20Base%20-2)
+- [1103. Moving Stones Until Consecutive :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n1103.%20Moving%20Stones%20Until%20Consecutive)
+- [1104. Coloring A Border :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n1104.%20Coloring%20A%20Border)
