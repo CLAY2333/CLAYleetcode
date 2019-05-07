@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（81 个，其中简单40 个，中等40 个， 困难1 个）：
+目前已解决的题目（84 个，其中简单40 个，中等43 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -50,11 +50,14 @@
 - [60. Permutation Sequence :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0060.%20Permutation%20Sequence)
 - [61. Rotate List :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0061.%20Rotate%20List)
 - [62. Unique Paths :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0062.%20Unique%20Paths)
+- [63. Unique Paths II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0063.%20Unique%20Paths%20II)
+- [64. Minimum Path Sum :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0064.%20Minimum%20Path%20Sum)
 - [66. Plus One :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0066.%20Plus%20One)
 - [67. Add Binary :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0067.%20Add%20Binary)
 - [69. Sqrt(x) :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0069.%20Sqrt(x))
 - [70. Climbing Stairs :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0070.%20Climbing%20Stairs)
 - [73. Set Matrix Zeroes :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0073.%20Set%20Matrix%20Zeroes)
+- [74. Search a 2D Matrix :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0074.%20Search%20a%202D%20Matrix)
 - [75. Sort Colors :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0075.%20Sort%20Colors)
 - [78. Subsets :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0078.%20Subsets)
 - [83. Remove Duplicates from Sorted List :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0083.%20Remove%20Duplicates%20from%20Sorted%20List)
