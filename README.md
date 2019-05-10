@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（86 个，其中简单41 个，中等44 个， 困难1 个）：
+目前已解决的题目（87 个，其中简单41 个，中等45 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -61,6 +61,7 @@
 - [74. Search a 2D Matrix :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0074.%20Search%20a%202D%20Matrix)
 - [75. Sort Colors :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0075.%20Sort%20Colors)
 - [78. Subsets :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0078.%20Subsets)
+- [79. Word Search :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0079.%20Word%20Search)
 - [83. Remove Duplicates from Sorted List :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0083.%20Remove%20Duplicates%20from%20Sorted%20List)
 - [88. Merge Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0088.%20Merge%20Sorted%20Array)
 - [90. Subsets II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0090.%20Subsets%20II)
