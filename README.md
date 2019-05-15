@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（88 个，其中简单41 个，中等46 个， 困难1 个）：
+目前已解决的题目（90 个，其中简单41 个，中等48 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -38,6 +38,7 @@
 - [40. Combination Sum II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0040.%20Combination%20Sum%20II)
 - [43. Multiply Strings :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0043.%20Multiply%20Strings)
 - [46. Permutations :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0046.%20Permutations)
+- [47. Permutations II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0047.%20Permutations%20II)
 - [48. Rotate Image :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0048.%20Rotate%20Image)
 - [49. Group Anagrams :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0049.%20Group%20Anagrams)
 - [50. Pow(x, n) :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0050.%20Pow(x,%20n))
@@ -66,6 +67,7 @@
 - [83. Remove Duplicates from Sorted List :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0083.%20Remove%20Duplicates%20from%20Sorted%20List)
 - [88. Merge Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0088.%20Merge%20Sorted%20Array)
 - [90. Subsets II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0090.%20Subsets%20II)
+- [94. Binary Tree Inorder Traversal :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0094.%20Binary%20Tree%20Inorder%20Traversal)
 - [100. Same Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0100.%20Same%20Tree)
 - [101. Symmetric Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0101.%20Symmetric%20Tree)
 - [104. Maximum Depth of Binary Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0104.%20Maximum%20Depth%20of%20Binary%20Tree)
