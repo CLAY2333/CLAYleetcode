@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（91 个，其中简单41 个，中等49 个， 困难1 个）：
+目前已解决的题目（92 个，其中简单42 个，中等49 个， 困难1 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -80,6 +80,7 @@
 - [290. Word Pattern :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0290.%20Word%20Pattern)
 - [326. Power of Three :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0326.%20Power%20of%20Three)
 - [396. Rotate Function :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0396.%20Rotate%20Function)
+- [434. Number of Segments in a String :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0434.%20Number%20of%20Segments%20in%20a%20String)
 - [443. String Compression :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0443.%20String%20Compression)
 - [476. Number Complement :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0476.%20Number%20Complement)
 - [496. Next Greater Element I :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0496.%20Next%20Greater%20Element%20I)
