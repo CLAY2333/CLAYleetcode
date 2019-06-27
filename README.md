@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（97 个，其中简单42 个，中等53 个， 困难2 个）：
+目前已解决的题目（99 个，其中简单42 个，中等55 个， 困难2 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -20,6 +20,7 @@
 - [15. 3Sum :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0015.%203Sum)
 - [16. 3Sum Closest :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0016.%203Sum%20Closest)
 - [17. Letter Combinations of a Phone Number :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)
+- [18. 4Sum :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0018.%204Sum)
 - [19. Remove Nth Node From End of List :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0019.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 - [20. Valid Parentheses :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0020.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0021.%20Merge%20Two%20Sorted%20Lists)
@@ -46,6 +47,7 @@
 - [53. Maximum Subarray :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0053.%20Maximum%20Subarray)
 - [54. Spiral Matrix :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0054.%20Spiral%20Matrix)
 - [55. Jump Game :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0055.%20Jump%20Game)
+- [56. Merge Intervals :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0056.%20Merge%20Intervals)
 - [58. Length of Last Word :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0058.%20Length%20of%20Last%20Word)
 - [59. Spiral Matrix II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0059.%20Spiral%20Matrix%20II)
 - [60. Permutation Sequence :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0060.%20Permutation%20Sequence)
