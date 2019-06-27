@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（99 个，其中简单42 个，中等55 个， 困难2 个）：
+目前已解决的题目（100 个，其中简单42 个，中等55 个， 困难3 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -25,6 +25,7 @@
 - [20. Valid Parentheses :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0020.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0021.%20Merge%20Two%20Sorted%20Lists)
 - [22. Generate Parentheses :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0022.%20Generate%20Parentheses)
+- [23. Merge k Sorted Lists :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0023.%20Merge%20k%20Sorted%20Lists)
 - [24. Swap Nodes in Pairs :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0024.%20Swap%20Nodes%20in%20Pairs)
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
 - [27. Remove Element :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0027.%20Remove%20Element)
