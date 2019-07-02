@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（100 个，其中简单42 个，中等55 个， 困难3 个）：
+目前已解决的题目（105 个，其中简单43 个，中等55 个， 困难7 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -27,10 +27,12 @@
 - [22. Generate Parentheses :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0022.%20Generate%20Parentheses)
 - [23. Merge k Sorted Lists :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0023.%20Merge%20k%20Sorted%20Lists)
 - [24. Swap Nodes in Pairs :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0024.%20Swap%20Nodes%20in%20Pairs)
+- [25. Reverse Nodes in k-Group :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0025.%20Reverse%20Nodes%20in%20k-Group)
 - [26. Remove Duplicates from Sorted Array :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0026.%20Remove%20Duplicates%20from%20Sorted%20Array)
 - [27. Remove Element :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0027.%20Remove%20Element)
 - [28. Implement strStr() :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0028.%20Implement%20strStr())
 - [29. Divide Two Integers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0029.%20Divide%20Two%20Integers)
+- [30. Substring with Concatenation of All Words :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0030.%20Substring%20with%20Concatenation%20of%20All%20Words)
 - [31. Next Permutation :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0031.%20Next%20Permutation)
 - [33. Search in Rotated Sorted Array :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0033.%20Search%20in%20Rotated%20Sorted%20Array)
 - [34. Find First and Last Position of Element in Sorted Array :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
@@ -45,6 +47,8 @@
 - [48. Rotate Image :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0048.%20Rotate%20Image)
 - [49. Group Anagrams :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0049.%20Group%20Anagrams)
 - [50. Pow(x, n) :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0050.%20Pow(x,%20n))
+- [51. N-Queens :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0051.%20N-Queens)
+- [52. N-Queens II :star::star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0052.%20N-Queens%20II)
 - [53. Maximum Subarray :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0053.%20Maximum%20Subarray)
 - [54. Spiral Matrix :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0054.%20Spiral%20Matrix)
 - [55. Jump Game :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0055.%20Jump%20Game)
@@ -81,6 +85,7 @@
 - [101. Symmetric Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0101.%20Symmetric%20Tree)
 - [104. Maximum Depth of Binary Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [107. Binary Tree Level Order Traversal II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
+- [112. Path Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0112.%20Path%20Sum)
 - [118. Pascal's Triangle :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0118.%20Pascal's%20Triangle)
 - [121. Best Time to Buy and Sell Stock :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [125. Valid Palindrome :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0125.%20Valid%20Palindrome)
