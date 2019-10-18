@@ -159,4 +159,4 @@ if __name__ == '__main__':
 
     subprocess.run(["git", "add", "."])
     subprocess.run(["git", "commit", "-m", "commit by crawler.py @CLAY at {}".format(datetime.now().strftime("%Y-%m-%d %H:%M"))])
-    subprocess.run(["git", "push", "--force", "origin", "master"])
+    subprocess.run( ["git", "push", "--force", "origin", "master"])
