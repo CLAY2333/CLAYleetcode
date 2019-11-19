@@ -2,7 +2,7 @@
 ## Leetcode-Python
 本项目记录我的Python刷题经验，也是学习Python的过程。
 本项目由`crawler.py`生成，代码由@Netcan提供。代码自动爬取Leetcode-cn.com网站获取个人提交记录。使用方法：登陆Leetcode后记录cookie，设置环境变量`LEETCODE_COOKIE`，然后执行本脚本就能抓取指定语言的个人提交记录。
-目前已解决的题目（114 个，其中简单45 个，中等55 个， 困难14 个）：
+目前已解决的题目（118 个，其中简单48 个，中等56 个， 困难14 个）：
 - [1. Two Sum :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0001.%20Two%20Sum)
 - [2. Add Two Numbers :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0002.%20Add%20Two%20Numbers)
 - [3. Longest Substring Without Repeating Characters :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0003.%20Longest%20Substring%20Without%20Repeating%20Characters)
@@ -87,6 +87,7 @@
 - [89. Gray Code :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0089.%20Gray%20Code)
 - [90. Subsets II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0090.%20Subsets%20II)
 - [92. Reverse Linked List II :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0092.%20Reverse%20Linked%20List%20II)
+- [93. Restore IP Addresses :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0093.%20Restore%20IP%20Addresses)
 - [94. Binary Tree Inorder Traversal :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0094.%20Binary%20Tree%20Inorder%20Traversal)
 - [100. Same Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0100.%20Same%20Tree)
 - [101. Symmetric Tree :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0101.%20Symmetric%20Tree)
@@ -97,8 +98,11 @@
 - [121. Best Time to Buy and Sell Stock :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [122. Best Time to Buy and Sell Stock II :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 - [125. Valid Palindrome :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0125.%20Valid%20Palindrome)
+- [136. Single Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0136.%20Single%20Number)
 - [198. House Robber :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0198.%20House%20Robber)
 - [232. Implement Queue using Stacks :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0232.%20Implement%20Queue%20using%20Stacks)
+- [268. Missing Number :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0268.%20Missing%20Number)
+- [283. Move Zeroes :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0283.%20Move%20Zeroes)
 - [290. Word Pattern :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0290.%20Word%20Pattern)
 - [326. Power of Three :star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0326.%20Power%20of%20Three)
 - [396. Rotate Function :star::star:](https://github.com/CLAY2333/CLAYleetcode/tree/master/n0396.%20Rotate%20Function)
