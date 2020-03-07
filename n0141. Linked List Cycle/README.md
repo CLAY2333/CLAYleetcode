@@ -1,9 +1,9 @@
 
 ### Linked List Cycle :star:
 - 题目地址/Problem Url: [https://leetcode-cn.com/problems/linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)
-- 执行时间/Runtime: 48 ms 
-- 内存消耗/Mem Usage: 15.7 MB
-- 通过日期/Accept Datetime: 2019-12-06 09:38
+- 执行时间/Runtime: 44 ms 
+- 内存消耗/Mem Usage: 15.9 MB
+- 通过日期/Accept Datetime: 2019-12-06 22:33
 ```python
 // Author: CLAY2333 @ https://github.com/CLAY2333/CLAYleetcode
 # Definition for singly-linked list.
@@ -14,13 +14,15 @@
 
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
-        while head:
-            if head.val=='liu':
-                return True
-            else:
-                head.val='liu'
-            head = head.next
-        return False
-
+        if head==None:
+            return False
+        quick_head = head.next
+        slow_head = head
+        while quick_head!=slow_head:
+            if quick_head == None or quick_head.next is None:
+                return False
+            quick_head = quick_head.next.next
+            slow_head = slow_head.next
+        return True
 
 ```
